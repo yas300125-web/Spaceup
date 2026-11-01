@@ -1,4 +1,4 @@
-# RESTYLE — RoomStyle AI Product Upgrade
+# RElook— RoomStyle AI Product Upgrade
 
 **Team Name:** VYRA
 
@@ -10,7 +10,7 @@
 
 ## 1. Project Overview
 
-RESTYLE is a proposed upgrade to RoomStyle AI, an existing AI-powered interior design application that allows users to upload room images, select design styles, and generate redesigned spaces.
+RELOOK is a proposed upgrade to RoomStyle AI, an existing AI-powered interior design application that allows users to upload room images, select design styles, and generate redesigned spaces.
 
 Our project aims to reimagine the application by introducing more intelligent, interactive, and personalized features that help users design their rooms with greater control.
 
@@ -28,7 +28,7 @@ to:
 
 ## 2. Project Idea
 
-RESTYLE is a creative product upgrade concept that combines AI interior design innovation with visual storytelling.
+RELOOK is a creative product upgrade concept that combines AI interior design innovation with visual storytelling.
 
 The project focuses on proposing 15 features that could improve the existing RoomStyle AI experience.
 
@@ -55,7 +55,7 @@ Existing AI room redesign applications can generate visually appealing results, 
 - Limited visualization under different lighting conditions.
 - Difficulty translating AI-generated inspiration into real-world decisions.
 
-RESTYLE proposes addressing these limitations by creating a more flexible, practical, and personalized interior design experience.
+RELOOK proposes addressing these limitations by creating a more flexible, practical, and personalized interior design experience.
 
 ## 4. Proposed Features
 
@@ -306,7 +306,7 @@ Our ultimate goal is to demonstrate how users could move from imagining a beauti
 
 ---
 
-# RESTYLE
+# RELOOK
 
 **Imagine it. Customize it. Make it real.**
 
