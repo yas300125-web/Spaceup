@@ -1,133 +1,300 @@
-Space Up — RoomStyle AI Product Upgrade
+# Space Up
 
-Team VYRA
+**Team VYRA**
 
-Imagine it. Customize it. Make it real.
+> *Imagine it. Customize it. Make it real.*
 
-Current Stage: Concept Development & Pre-Production
+**Project Status:** Concept Development & Pre-Production
 
-1. Project Name
+---
 
-Space Up — a proposed product upgrade for the existing AI interior design application RoomStyle AI.
+## 1. Project Name
 
-2. Project Idea
+**Space Up**
+
+## 2. Project Idea
+
+### Project Overview
+
+Space Up is a proposed upgrade to RoomStyle AI, an existing AI-powered interior design application that allows users to upload room images, select design styles, and generate redesigned spaces.
+
+Our project aims to reimagine the application by introducing more intelligent, interactive, and personalized features that help users design their rooms with greater control.
+
+The concept will be presented through a combination of UI Design, Live-Action Filming, Motion Graphics, and Video Editing.
+
+Rather than developing a fully functional application, our team will design the proposed user interface and produce a cinematic video demonstrating how Space Up could work and how users could benefit from its features.
+
+Our goal is to transform the experience from:
+
+**"Generate a New Room"**
+
+to:
+
+**"Design Your Room With AI."**
+
+### The Concept
 
 Space Up is a creative product upgrade concept that combines AI interior design innovation with visual storytelling.
 
-RoomStyle AI lets users upload a room image, choose a design style, and generate a redesigned space. Space Up reimagines this experience with more intelligent, interactive, and personalized features that give users greater control over their design.
+The project focuses on proposing 15 features that could improve the existing RoomStyle AI experience.
 
-Our goal is to move the experience from:
+To communicate this concept, our team plans to create:
 
-"Generate a New Room" → "Design Your Room With AI."
+- **UI Design:** Application screens demonstrating the proposed features and user experience.
+- **Live-Action Video:** Real footage featuring a person interacting with the concept in a realistic scenario.
+- **Motion Graphics:** Animated interfaces, visual effects, and feature demonstrations.
+- **Video Editing:** A combination of live-action footage, animated UI, transitions, sound design, and visual storytelling.
+- **Final Product Video:** A cinematic promotional and explanatory video introducing Space Up and highlighting its capabilities.
 
-Rather than building a fully functional application, the team will design the proposed user interface and produce a cinematic video demonstrating how Space Up could work. The concept will be presented through:
+The final outcome will visually demonstrate the proposed application experience rather than deliver a fully developed software product.
 
-UI Design: application screens demonstrating the proposed features (Figma)
-Live-Action Video: real footage of a person interacting with the concept
-Motion Graphics: animated interfaces and feature demonstrations
-Video Editing: live action, animated UI, transitions, and sound design combined into the final video
-Problems We Address
-Limited control over individual furniture and room elements
-Difficulty preserving existing room features
-No budget or cost estimation
-Limited comparison between design alternatives
-No direct connection between generated designs and purchasable furniture
-Uncertainty about room measurements and furniture suitability
-Limited visualization under different lighting conditions
-Difficulty turning AI-generated inspiration into real-world decisions
-Proposed Features (15)
-#	Feature	Summary
-01	Multiple Restyles	Several design alternatives (Modern, Japandi, Luxury) for the same room
-02	Selective Restyle	Modify specific elements (sofa, walls, flooring) while keeping the rest
-03	Don't Change (Element Locking)	Lock chosen elements so the AI preserves them
-04	Mix Styles	Blend styles, e.g. 70% Japandi + 30% Industrial
-05	Mood-Based Design	Choose an atmosphere (Cozy, Calm, Warm, Luxury, Energetic, Minimal)
-06	Budget Mode	Estimated costs, affordable alternatives, and spending priorities
-07	Shop This Look	Furniture recommendations with types, prices, materials, and dimensions
-08	Smart Room Analysis	Computer vision to identify walls, floors, windows, doors, furniture, lighting
-09	Smart Measurements	Approximate room and furniture dimensions (approximate unless verified)
-10	Day & Night Preview	Morning, afternoon, sunset, and night lighting previews
-11	AR Furniture Preview	See selected furniture in the real room using AR
-12	Design History	Save, revisit, compare, and keep editing past designs
-13	AI Design Explanation	Understandable reasoning for colors, lighting, placement, and atmosphere
-14	Before & After Comparison	Interactive slider between the original and redesigned room
-15	AI Transformation Video	Short shareable transformation videos for Instagram, TikTok, Pinterest
-Proposed User Journey
+## 3. Problem Statement
 
-Upload → Analyze → Personalize → Generate → Customize → Compare → Shop → Preview → Save → Share
+Existing AI room redesign applications can generate visually appealing results, but users may still face several limitations:
 
-Final Vision
+- Limited control over individual furniture and room elements.
+- Difficulty preserving existing room features.
+- Lack of budget and cost estimation.
+- Limited comparison between design alternatives.
+- No direct connection between generated designs and purchasable furniture.
+- Uncertainty about room measurements and furniture suitability.
+- Limited visualization under different lighting conditions.
+- Difficulty translating AI-generated inspiration into real-world decisions.
 
-To transform RoomStyle AI from a simple AI room generator into a more intelligent and interactive AI Interior Design Platform, combining Artificial Intelligence, Computer Vision, Personalization, Augmented Reality, E-commerce, and Interactive Design.
+Space Up proposes addressing these limitations by creating a more flexible, practical, and personalized interior design experience.
 
-3. Team Members
+## 4. Proposed Features
 
-Team Name: VYRA
+### Feature 01 — Multiple Restyles
+Generate several design alternatives for the same room, such as Modern, Japandi, and Luxury.
 
-No.	Team Member
-1	Yasmin Saleh Ahmed
-2	Malak Ahmed Awd Abo Algoad
-3	Youstina Natey Kamel Maximus
-4	Mariam Hany Adly Abdelhot
-5	Rahma Abd Elhady Abd Elaziz Kelila
-6	Rawda Tarek Ahmed Ahmed
-4. Work Plan
-Phase	Planned Activities	Status
-1. Project Concept	Select the application and define the upgrade idea	Completed
-2. Feature Ideation	Identify and propose new application features	Completed
-3. Research & Planning	Study the application, competitors, and visual references	Planned
-4. Feature Selection	Choose the main features to highlight in the video	Planned
-5. UI Design	Design the proposed application screens using Figma	Not Started
-6. Scriptwriting	Develop the video concept, narrative, and script	Not Started
-7. Storyboarding	Plan scenes, camera angles, and animation sequences	Not Started
-8. Live-Action Filming	Film the scenes featuring a real person	Not Started
-9. Motion Graphics	Animate the application interfaces and demonstrate features	Not Started
-10. Video Editing	Combine footage, motion graphics, sound, and visual effects	Not Started
-11. Final Delivery	Review and export the final video and UI presentation	Not Started
+Users could compare different options and select their preferred design.
 
-The work plan may be updated as the project progresses.
+### Feature 02 — Selective Restyle
+Allow users to modify specific room elements, such as sofas, walls, or flooring, while preserving the remaining design.
 
-5. Roles & Responsibilities
+### Feature 03 — Don't Change (Element Locking)
+Enable users to lock selected room elements so the AI preserves them during redesign.
 
-Team responsibilities will be finalized before production begins. Team members may collaborate across multiple roles depending on their skills and the project's needs.
+Examples include furniture, windows, doors, and flooring.
 
-Role	Responsibilities	Assignment
-Project Coordinator	Manage deadlines, workflow, and team communication	To Be Assigned
-UI Designer	Design application screens and visual interfaces	To Be Assigned
-Scriptwriter & Storyboard Artist	Develop the video script, scenes, and shot planning	To Be Assigned
-Videographer	Handle live-action filming and camera work	To Be Assigned
-Motion Graphics Designer	Animate application interfaces and proposed features	To Be Assigned
-Video Editor	Edit footage, integrate motion graphics, and finalize the video	To Be Assigned
-6. KPIs — Key Performance Indicators
-KPI	Proposed Measurement
-Feature Clarity	How clearly viewers understand the proposed application features
-UI Design Quality	Visual consistency, readability, and clarity of the application interfaces
-Video Engagement	Viewer feedback on the pacing and presentation
-Motion Graphics Quality	Smoothness and clarity of animated interface demonstrations
-Storytelling Effectiveness	How effectively the video communicates the problem and proposed solution
-Production Quality	Quality of filming, editing, sound, and visual integration
-Project Completion	Successful delivery of the planned UI designs and final video
+### Feature 04 — Mix Styles
+Allow users to combine multiple interior design styles to create personalized results.
 
-These are proposed evaluation criteria. No actual production or testing results have been collected yet.
+For example:
+- 70% Japandi + 30% Industrial
+- Modern + Luxury
+- Minimal + Scandinavian
 
-7. Instructor
+### Feature 05 — Mood-Based Design
+Allow users to select their desired atmosphere instead of requiring knowledge of interior design terminology.
 
-Mohamed Mansour
+Examples include Cozy, Calm, Warm, Luxury, Energetic, and Minimal.
 
-8. Project Files
-Deliverable	Link	Status
-Google Drive (project files)	(https://drive.google.com/drive/folders/1xdlnBbMcApqw89bnXo3OXs2pOS7AsWgr?usp=sharing)	Available
-Figma UI Design	(https://www.figma.com/design/gyi0VLA3TYjljEUl4PTztx/Untitled?node-id=0-1&t=yQMpkiC5mbPZ72si-1)	Planned
-Final Promotional Video		In Progress
-Project Presentation	In Progress
+### Feature 06 — Budget Mode
+Provide budget-conscious design recommendations, including:
+- Estimated furniture costs.
+- Affordable alternatives.
+- Spending priorities.
+- Estimated total design costs.
 
-Additional files and deliverables will be added as the project progresses.
+### Feature 07 — Shop This Look
+Connect AI-generated designs with relevant furniture recommendations.
 
-Planned Deliverables
-UI Design: application screens demonstrating the Space Up concept
-UI Animations: motion graphics illustrating interactions and functionality
-Live-Action Footage: filmed scenes featuring a real person
-Final Promotional Video: live action, UI animations, motion graphics, and sound design
-Project Documentation: supporting materials and presentation resources
+Users could explore product types, estimated prices, materials, dimensions, and shopping alternatives.
 
-Space Up — Imagine it. Customize it. Make it real. Developed by Team VYRA.
+### Feature 08 — Smart Room Analysis
+Use computer vision to identify room elements, including walls, floors, windows, doors, furniture, and lighting.
+
+This would support more accurate design modifications.
+
+### Feature 09 — Smart Measurements
+Estimate room and furniture dimensions to improve spatial suitability and furniture recommendations.
+
+Measurements would remain approximate unless verified.
+
+### Feature 10 — Day & Night Preview
+Allow users to preview their designs under different lighting conditions, including morning, afternoon, sunset, and nighttime.
+
+### Feature 11 — AR Furniture Preview
+Allow users to visualize selected furniture inside their actual rooms using augmented reality before purchasing.
+
+### Feature 12 — Design History
+Enable users to save previous designs, revisit earlier versions, compare alternatives, and continue editing saved concepts.
+
+### Feature 13 — AI Design Explanation
+Provide understandable explanations of AI-generated design choices, including color palettes, lighting, furniture placement, and atmosphere.
+
+### Feature 14 — Before & After Comparison
+Introduce an interactive slider allowing users to compare the original room with the proposed AI-generated design.
+
+### Feature 15 — AI Transformation Video
+Convert before-and-after designs into short transformation videos suitable for sharing on Instagram, TikTok, and Pinterest.
+
+## 5. Proposed User Journey
+
+The proposed application experience would follow these steps:
+
+1. Upload a room image.
+2. AI analyzes the room.
+3. Choose a preferred style, mood, and budget.
+4. Generate multiple design alternatives.
+5. Customize selected room elements.
+6. Compare design options.
+7. Explore furniture recommendations and estimated costs.
+8. Preview selected furniture using AR.
+9. Save the preferred design.
+10. Generate and share a transformation video.
+
+**Upload → Analyze → Personalize → Generate → Customize → Compare → Shop → Preview → Save → Share**
+
+This journey will guide the UI design and the visual demonstrations included in the final video.
+
+## 6. Project Objectives
+
+The main objectives of Space Up are to:
+
+- Present an improved concept for the existing RoomStyle AI application.
+- Demonstrate a more personalized and interactive interior design experience.
+- Design clear and visually appealing application interfaces.
+- Explain the proposed AI-powered features through motion graphics.
+- Combine live-action storytelling with animated UI elements.
+- Produce a professional video introducing the application concept.
+- Help viewers understand the potential benefits of the proposed features.
+
+## 7. Team Members
+
+**Team Name:** VYRA
+
+| No. | Team Member |
+|-----|-------------|
+| 1 | Yasmin Saleh Ahmed |
+| 2 | Malak Ahmed Awd Abo Algoad |
+| 3 | Youstina Natey Kamel Maximus |
+| 4 | Mariam Hany Adly Abdelhot |
+| 5 | Rahma Abd Elhady Abd Elaziz Kelila |
+| 6 | Rawda Tarek Ahmed Ahmed |
+
+## 8. Project Status
+
+**Current Stage:** Concept Development & Pre-Production Planning
+
+The team has currently:
+
+- Selected RoomStyle AI as the existing product to improve.
+- Defined the Space Up product upgrade concept.
+- Identified initial user experience limitations.
+- Proposed 15 potential features.
+- Established the initial project vision.
+- Planned to present the concept through UI design, live-action filming, and motion graphics.
+- Started working on the final video and the project presentation (both still in progress).
+
+The next steps will focus on research, feature selection, scriptwriting, storyboarding, and UI planning.
+
+## 9. Work Plan
+
+The following roadmap outlines the planned stages of the project.
+
+| Phase | Planned Activities | Status |
+|-------|--------------------|--------|
+| 1. Project Concept | Select the application and define the upgrade idea | Completed |
+| 2. Feature Ideation | Identify and propose new application features | Completed |
+| 3. Research & Planning | Study the application, competitors, and visual references | Planned |
+| 4. Feature Selection | Choose the main features to highlight in the video | Planned |
+| 5. UI Design | Design the proposed application screens using Figma | Not Started |
+| 6. Scriptwriting | Develop the video concept, narrative, and script | Not Started |
+| 7. Storyboarding | Plan scenes, camera angles, and animation sequences | Not Started |
+| 8. Live-Action Filming | Film the scenes featuring a real person | Not Started |
+| 9. Motion Graphics | Animate the application interfaces and demonstrate features | Not Started |
+| 10. Video Editing | Combine footage, motion graphics, sound, and visual effects | Not Started |
+| 11. Final Delivery | Review and export the final video and UI presentation | Not Started |
+
+*Note: The work plan may be updated as the project progresses.*
+
+## 10. Roles & Responsibilities
+
+Team responsibilities will be finalized before production begins.
+
+The planned roles include:
+
+| Role | Responsibilities | Assignment |
+|------|------------------|------------|
+| Project Coordinator | Manage deadlines, workflow, and team communication | To Be Assigned |
+| UI Designer | Design application screens and visual interfaces | To Be Assigned |
+| Scriptwriter & Storyboard Artist | Develop the video script, scenes, and shot planning | To Be Assigned |
+| Videographer | Handle live-action filming and camera work | To Be Assigned |
+| Motion Graphics Designer | Animate application interfaces and proposed features | To Be Assigned |
+| Video Editor | Edit footage, integrate motion graphics, and finalize the video | To Be Assigned |
+
+Team members may collaborate across multiple roles depending on their skills and the project's needs.
+
+## 11. KPIs — Key Performance Indicators
+
+The following KPIs are proposed to evaluate the effectiveness and quality of the final project.
+
+| KPI | Proposed Measurement |
+|-----|----------------------|
+| Feature Clarity | How clearly viewers understand the proposed application features |
+| UI Design Quality | Visual consistency, readability, and clarity of the application interfaces |
+| Video Engagement | Viewer feedback on the pacing and presentation |
+| Motion Graphics Quality | Smoothness and clarity of animated interface demonstrations |
+| Storytelling Effectiveness | How effectively the video communicates the problem and proposed solution |
+| Production Quality | Quality of filming, editing, sound, and visual integration |
+| Project Completion | Successful delivery of the planned UI designs and final video |
+
+*Note: These are proposed evaluation criteria. No actual production or testing results have been collected yet.*
+
+## 12. Instructor
+
+**Instructor Name:** Mohamed Mansour
+
+## 13. Project Deliverables
+
+The planned final deliverables include:
+
+- **UI Design:** Application screens demonstrating the Space Up concept and its proposed features.
+- **UI Animations:** Motion graphics illustrating application interactions and functionality.
+- **Live-Action Footage:** Filmed scenes featuring a real person.
+- **Final Promotional Video:** A cinematic video combining live-action footage, UI animations, motion graphics, and sound design.
+- **Project Documentation:** Supporting project materials and presentation resources.
+
+## 14. Project Files
+
+| Deliverable | Link | Status |
+|-------------|------|--------|
+| Google Drive (project files) | [View Project Files](https://drive.google.com/drive/folders/1xdlnBbMcApqw89bnXo3OXs2pOS7AsWgr?usp=sharing) | Available |
+| Figma UI Design | [View Figma Design](https://www.figma.com/design/gyi0VLA3TYjljEUl4PTztx/Untitled?node-id=0-1&t=yQMpkiC5mbPZ72si-1) | Planned |
+| Final Promotional Video | Link will be added when completed | In Progress |
+| Project Presentation | Link will be added when completed | In Progress |
+
+*Additional files and deliverables will be added as the project progresses.*
+
+## 15. Expected Value
+
+Space Up aims to demonstrate how AI-powered interior design could become more interactive, personalized, and practical.
+
+The proposed features would help users customize their spaces, compare design alternatives, estimate costs, and explore furniture options.
+
+Through modern UI design, live-action filming, and motion graphics, the project will communicate these ideas in an engaging and understandable way.
+
+The final video will allow viewers to visualize the proposed application experience without requiring a fully functional product.
+
+## 16. Final Vision
+
+Our vision is to transform RoomStyle AI from a simple AI Room Generator into a more intelligent and interactive AI Interior Design Platform.
+
+The proposed experience combines:
+
+**Artificial Intelligence + Computer Vision + Personalization + Augmented Reality + E-commerce + Interactive Design**
+
+Through cinematic storytelling and creative visual production, Space Up aims to bring this vision to life.
+
+Our ultimate goal is to demonstrate how users could move from imagining a beautiful space to customizing, evaluating, and planning their ideal interior design.
+
+---
+
+## Space Up
+
+*Imagine it. Customize it. Make it real.*
+
+Developed by Team VYRA.
