@@ -2,9 +2,9 @@
 
 **Team VYRA**
 
-> *Imagine it. Customize it. Make it real.*
+*Imagine it. Customize it. Make it real.*
 
-**Project Status:** Concept Development & Pre-Production
+**Project Status:** Post-Production Completed – Final Review Pending
 
 ---
 
@@ -20,9 +20,9 @@ Space Up is a proposed upgrade to RoomStyle AI, an existing AI-powered interior 
 
 Our project aims to reimagine the application by introducing more intelligent, interactive, and personalized features that help users design their rooms with greater control.
 
-The concept will be presented through a combination of UI Design, Live-Action Filming, Motion Graphics, and Video Editing.
+The concept is presented through a combination of UI Design, Live-Action Filming, Motion Graphics, and Video Editing.
 
-Rather than developing a fully functional application, our team will design the proposed user interface and produce a cinematic video demonstrating how Space Up could work and how users could benefit from its features.
+Rather than developing a fully functional application, our team has designed the proposed user interface and produced a cinematic video demonstrating how Space Up could work and how users could benefit from its features.
 
 Our goal is to transform the experience from:
 
@@ -36,9 +36,9 @@ to:
 
 Space Up is a creative product upgrade concept that combines AI interior design innovation with visual storytelling.
 
-The project focuses on proposing 15 features that could improve the existing RoomStyle AI experience.
+The project focuses on 15 proposed features that could improve the existing RoomStyle AI experience.
 
-To communicate this concept, our team plans to create:
+To communicate this concept, our team has worked on:
 
 - **UI Design:** Application screens demonstrating the proposed features and user experience.
 - **Live-Action Video:** Real footage featuring a person interacting with the concept in a realistic scenario.
@@ -46,7 +46,7 @@ To communicate this concept, our team plans to create:
 - **Video Editing:** A combination of live-action footage, animated UI, transitions, sound design, and visual storytelling.
 - **Final Product Video:** A cinematic promotional and explanatory video introducing Space Up and highlighting its capabilities.
 
-The final outcome will visually demonstrate the proposed application experience rather than deliver a fully developed software product.
+The final outcome visually demonstrates the proposed application experience rather than delivering a fully developed software product.
 
 ## 3. Problem Statement
 
@@ -66,74 +66,91 @@ Space Up proposes addressing these limitations by creating a more flexible, prac
 ## 4. Proposed Features
 
 ### Feature 01 — Multiple Restyles
+
 Generate several design alternatives for the same room, such as Modern, Japandi, and Luxury.
 
 Users could compare different options and select their preferred design.
 
 ### Feature 02 — Selective Restyle
+
 Allow users to modify specific room elements, such as sofas, walls, or flooring, while preserving the remaining design.
 
 ### Feature 03 — Don't Change (Element Locking)
+
 Enable users to lock selected room elements so the AI preserves them during redesign.
 
 Examples include furniture, windows, doors, and flooring.
 
 ### Feature 04 — Mix Styles
+
 Allow users to combine multiple interior design styles to create personalized results.
 
 For example:
+
 - 70% Japandi + 30% Industrial
 - Modern + Luxury
 - Minimal + Scandinavian
 
 ### Feature 05 — Mood-Based Design
+
 Allow users to select their desired atmosphere instead of requiring knowledge of interior design terminology.
 
 Examples include Cozy, Calm, Warm, Luxury, Energetic, and Minimal.
 
 ### Feature 06 — Budget Mode
+
 Provide budget-conscious design recommendations, including:
+
 - Estimated furniture costs.
 - Affordable alternatives.
 - Spending priorities.
 - Estimated total design costs.
 
 ### Feature 07 — Shop This Look
+
 Connect AI-generated designs with relevant furniture recommendations.
 
 Users could explore product types, estimated prices, materials, dimensions, and shopping alternatives.
 
 ### Feature 08 — Smart Room Analysis
+
 Use computer vision to identify room elements, including walls, floors, windows, doors, furniture, and lighting.
 
 This would support more accurate design modifications.
 
 ### Feature 09 — Smart Measurements
+
 Estimate room and furniture dimensions to improve spatial suitability and furniture recommendations.
 
 Measurements would remain approximate unless verified.
 
 ### Feature 10 — Day & Night Preview
+
 Allow users to preview their designs under different lighting conditions, including morning, afternoon, sunset, and nighttime.
 
 ### Feature 11 — AR Furniture Preview
+
 Allow users to visualize selected furniture inside their actual rooms using augmented reality before purchasing.
 
 ### Feature 12 — Design History
+
 Enable users to save previous designs, revisit earlier versions, compare alternatives, and continue editing saved concepts.
 
 ### Feature 13 — AI Design Explanation
+
 Provide understandable explanations of AI-generated design choices, including color palettes, lighting, furniture placement, and atmosphere.
 
 ### Feature 14 — Before & After Comparison
+
 Introduce an interactive slider allowing users to compare the original room with the proposed AI-generated design.
 
 ### Feature 15 — AI Transformation Video
+
 Convert before-and-after designs into short transformation videos suitable for sharing on Instagram, TikTok, and Pinterest.
 
 ## 5. Proposed User Journey
 
-The proposed application experience would follow these steps:
+The proposed application experience follows these steps:
 
 1. Upload a room image.
 2. AI analyzes the room.
@@ -148,7 +165,7 @@ The proposed application experience would follow these steps:
 
 **Upload → Analyze → Personalize → Generate → Customize → Compare → Shop → Preview → Save → Share**
 
-This journey will guide the UI design and the visual demonstrations included in the final video.
+This journey guided the UI design and the visual demonstrations developed for the final video.
 
 ## 6. Project Objectives
 
@@ -162,12 +179,14 @@ The main objectives of Space Up are to:
 - Produce a professional video introducing the application concept.
 - Help viewers understand the potential benefits of the proposed features.
 
+The team has completed the main design and production stages supporting these objectives. Final review and delivery remain pending.
+
 ## 7. Team Members
 
 **Team Name:** VYRA
 
 | No. | Team Member |
-|-----|-------------|
+|---|---|
 | 1 | Yasmin Saleh Ahmed |
 | 2 | Malak Ahmed Awd Abo Algoad |
 | 3 | Youstina Natey Kamel Maximus |
@@ -177,63 +196,80 @@ The main objectives of Space Up are to:
 
 ## 8. Project Status
 
-**Current Stage:** Concept Development & Pre-Production Planning
+**Current Stage:** Final Review & Delivery
 
-The team has currently:
+The team has successfully completed the main project development and production phases.
+
+### Completed Work
 
 - Selected RoomStyle AI as the existing product to improve.
 - Defined the Space Up product upgrade concept.
-- Identified initial user experience limitations.
+- Identified user experience limitations.
 - Proposed 15 potential features.
-- Established the initial project vision.
-- Planned to present the concept through UI design, live-action filming, and motion graphics.
-- Started working on the final video and the project presentation (both still in progress).
+- Established the project vision and objectives.
+- Conducted research on the application, competitors, and visual references.
+- Selected the main features to highlight in the promotional video.
+- Designed the proposed application screens using Figma.
+- Developed the video concept, narrative, and script.
+- Planned the storyboard, scenes, camera angles, and animation sequences.
+- Completed live-action filming featuring a real person.
+- Created motion graphics and animated application interfaces.
+- Completed video editing, including footage integration, visual effects, transitions, and sound.
 
-The next steps will focus on research, feature selection, scriptwriting, storyboarding, and UI planning.
+### Remaining Work
+
+- Conduct the final quality review.
+- Review the final UI presentation and video.
+- Export and organize the final deliverables.
+- Submit the completed project.
+
+**Overall Progress:** 10 of 11 project phases completed.
 
 ## 9. Work Plan
 
-The following roadmap outlines the planned stages of the project.
+The following roadmap outlines the project stages and their updated completion status.
 
 | Phase | Planned Activities | Status |
-|-------|--------------------|--------|
+|---|---|---|
 | 1. Project Concept | Select the application and define the upgrade idea | Completed |
 | 2. Feature Ideation | Identify and propose new application features | Completed |
-| 3. Research & Planning | Study the application, competitors, and visual references | Planned |
-| 4. Feature Selection | Choose the main features to highlight in the video | Planned |
-| 5. UI Design | Design the proposed application screens using Figma | Not Started |
-| 6. Scriptwriting | Develop the video concept, narrative, and script | Not Started |
-| 7. Storyboarding | Plan scenes, camera angles, and animation sequences | Not Started |
-| 8. Live-Action Filming | Film the scenes featuring a real person | Not Started |
-| 9. Motion Graphics | Animate the application interfaces and demonstrate features | Not Started |
-| 10. Video Editing | Combine footage, motion graphics, sound, and visual effects | Not Started |
-| 11. Final Delivery | Review and export the final video and UI presentation | Not Started |
+| 3. Research & Planning | Study the application, competitors, and visual references | Completed |
+| 4. Feature Selection | Choose the main features to highlight in the video | Completed |
+| 5. UI Design | Design the proposed application screens using Figma | Completed |
+| 6. Scriptwriting | Develop the video concept, narrative, and script | Completed |
+| 7. Storyboarding | Plan scenes, camera angles, and animation sequences | Completed |
+| 8. Live-Action Filming | Film the scenes featuring a real person | Completed |
+| 9. Motion Graphics | Animate the application interfaces and demonstrate features | Completed |
+| 10. Video Editing | Combine footage, motion graphics, sound, and visual effects | Completed |
+| 11. Final Delivery | Review and export the final video and UI presentation | Pending |
 
-*Note: The work plan may be updated as the project progresses.*
+**Progress Summary:** The team has completed all major concept development, research, design, and production stages. The project is currently awaiting final review and delivery.
 
 ## 10. Roles & Responsibilities
 
-Team responsibilities will be finalized before production begins.
+Team members collaborated across different production stages, including UI design, scriptwriting, storyboarding, filming, motion graphics, and video editing.
 
-The planned roles include:
+Responsibilities were distributed based on team members' skills and project requirements.
 
-| Role | Responsibilities | Assignment |
-|------|------------------|------------|
-| Project Coordinator | Manage deadlines, workflow, and team communication | To Be Assigned |
-| UI Designer | Design application screens and visual interfaces | To Be Assigned |
-| Scriptwriter & Storyboard Artist | Develop the video script, scenes, and shot planning | To Be Assigned |
-| Videographer | Handle live-action filming and camera work | To Be Assigned |
-| Motion Graphics Designer | Animate application interfaces and proposed features | To Be Assigned |
-| Video Editor | Edit footage, integrate motion graphics, and finalize the video | To Be Assigned |
+| Role | Responsibilities | Status |
+|---|---|---|
+| Project Coordinator | Managed deadlines, workflow, and team communication | Completed |
+| UI Designer | Designed application screens and visual interfaces | Completed |
+| Scriptwriter & Storyboard Artist | Developed the video script, scenes, and shot planning | Completed |
+| Videographer | Handled live-action filming and camera work | Completed |
+| Motion Graphics Designer | Animated application interfaces and proposed features | Completed |
+| Video Editor | Edited footage, integrated motion graphics, and finalized the video | Completed |
 
-Team members may collaborate across multiple roles depending on their skills and the project's needs.
+Team members collaborated across multiple roles depending on their skills and the project's needs.
+
+The responsibilities listed above reflect the completed work. Individual role assignments can be documented separately.
 
 ## 11. KPIs — Key Performance Indicators
 
-The following KPIs are proposed to evaluate the effectiveness and quality of the final project.
+The following KPIs are used to evaluate the effectiveness and quality of the project.
 
-| KPI | Proposed Measurement |
-|-----|----------------------|
+| KPI | Evaluation Criteria |
+|---|---|
 | Feature Clarity | How clearly viewers understand the proposed application features |
 | UI Design Quality | Visual consistency, readability, and clarity of the application interfaces |
 | Video Engagement | Viewer feedback on the pacing and presentation |
@@ -242,7 +278,7 @@ The following KPIs are proposed to evaluate the effectiveness and quality of the
 | Production Quality | Quality of filming, editing, sound, and visual integration |
 | Project Completion | Successful delivery of the planned UI designs and final video |
 
-*Note: These are proposed evaluation criteria. No actual production or testing results have been collected yet.*
+**Note:** The main production activities have been completed. Final quality evaluation and project delivery are pending.
 
 ## 12. Instructor
 
@@ -250,24 +286,26 @@ The following KPIs are proposed to evaluate the effectiveness and quality of the
 
 ## 13. Project Deliverables
 
-The planned final deliverables include:
+The project deliverables include:
 
-- **UI Design:** Application screens demonstrating the Space Up concept and its proposed features.
+- **UI Design:** Completed application screens demonstrating the Space Up concept and its proposed features.
 - **UI Animations:** Motion graphics illustrating application interactions and functionality.
 - **Live-Action Footage:** Filmed scenes featuring a real person.
-- **Final Promotional Video:** A cinematic video combining live-action footage, UI animations, motion graphics, and sound design.
+- **Final Promotional Video:** A cinematic video combining live-action footage, UI animations, motion graphics, and sound design. Production and editing have been completed.
 - **Project Documentation:** Supporting project materials and presentation resources.
+
+The main creative and production deliverables have been prepared, with final review, export, and submission remaining.
 
 ## 14. Project Files
 
 | Deliverable | Link | Status |
-|-------------|------|--------|
+|---|---|---|
 | Google Drive (project files) | [View Project Files](https://drive.google.com/drive/folders/1xdlnBbMcApqw89bnXo3OXs2pOS7AsWgr?usp=sharing) | Available |
-| Figma UI Design | [View Figma Design](https://www.figma.com/design/gyi0VLA3TYjljEUl4PTztx/Untitled?node-id=0-1&t=yQMpkiC5mbPZ72si-1) | Planned |
-| Final Promotional Video | Link will be added when completed | In Progress |
-| Project Presentation | Link will be added when completed | In Progress |
+| Figma UI Design | [View Figma Design](https://www.figma.com/design/gyi0VLA3TYjljEUl4PTztx/Untitled?node-id=0-1&t=yQMpkiC5mbPZ72si-1) | Completed |
+| Final Promotional Video | Link will be added after final export | Editing Completed |
+| Project Presentation | Link will be added when finalized | In Progress |
 
-*Additional files and deliverables will be added as the project progresses.*
+Final deliverable links will be updated after the review and export process is completed.
 
 ## 15. Expected Value
 
@@ -275,9 +313,11 @@ Space Up aims to demonstrate how AI-powered interior design could become more in
 
 The proposed features would help users customize their spaces, compare design alternatives, estimate costs, and explore furniture options.
 
-Through modern UI design, live-action filming, and motion graphics, the project will communicate these ideas in an engaging and understandable way.
+Through modern UI design, live-action filming, and motion graphics, the project communicates these ideas in an engaging and understandable way.
 
-The final video will allow viewers to visualize the proposed application experience without requiring a fully functional product.
+The completed design and video production work demonstrates the proposed application experience without requiring a fully functional software product.
+
+The project also highlights the integration of UI/UX design, creative storytelling, cinematography, motion graphics, and video editing within a collaborative workflow.
 
 ## 16. Final Vision
 
@@ -287,14 +327,16 @@ The proposed experience combines:
 
 **Artificial Intelligence + Computer Vision + Personalization + Augmented Reality + E-commerce + Interactive Design**
 
-Through cinematic storytelling and creative visual production, Space Up aims to bring this vision to life.
+Through cinematic storytelling and creative visual production, Space Up brings this vision to life.
 
 Our ultimate goal is to demonstrate how users could move from imagining a beautiful space to customizing, evaluating, and planning their ideal interior design.
 
+The team has completed the major creative and production stages required to communicate this vision and is preparing the project for final review and delivery.
+
 ---
 
-## Space Up
+# Space Up
 
 *Imagine it. Customize it. Make it real.*
 
-Developed by Team VYRA.
+**Developed by Team VYRA.**
